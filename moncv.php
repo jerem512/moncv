@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <?php include("./assets/assists/header.php") ?>
   <title>Mon CV</title>
 </head>
 <body>
@@ -21,5 +22,7 @@
   <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore neque non voluptas rem tempore suscipit, animi, officia dolorem aut illum nisi debitis cum odio nulla ipsa consectetur nemo quis.</span><span>Dolores deserunt magni eveniet ad voluptas minima, accusamus totam error soluta voluptatem reiciendis beatae, temporibus cumque, adipisci dolorum facilis debitis quis. In illum porro corporis voluptate laborum laudantium, sint aut.</span></p>
   <h2><u>Centres dintérêt :</u></h2>
   <p><span>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident facere omnis sint aliquid fugit quasi eum vero fuga! Id similique adipisci repudiandae dolores blanditiis earum quibusdam sunt asperiores perferendis sapiente.</span><span>Tempora porro eligendi ut cupiditate. Accusamus nam tempore similique optio ut repellat, dolor assumenda porro distinctio sit doloremque minima amet nemo, sed sapiente ratione dolores tempora aliquid maiores explicabo deleniti.</span></p>
+  <a href="http://localhost/Site_Upload/">Retour aux sources</a>
+  <?php include("./assets/assists/footer.php") ?>
 </body>
 </html>
